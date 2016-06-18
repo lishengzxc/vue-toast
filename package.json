@@ -1,6 +1,6 @@
 {
   "name": "vue-ttoast",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "vue-toast",
   "main": "build/vue-toast.js",
   "author": "ls",
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.0.0",
-    "ttoast": "^0.1.3",
+    "ttoast": "^0.1.4",
     "vue": "^1.0.0"
   },
   "devDependencies": {
